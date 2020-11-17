@@ -6,6 +6,6 @@ Padrão dotnet foi um plataforma desenvolvida pela microsoft com a idéia de ser
 3 | Digite o nome do executável no terminal para Executar o arquivo
 
 
-###dotnet new console -> Prepara todo o conteúdo para programar em c#
-###dotnet run -> rodar o programa no padrão dotnet
-###csc program.cs
+### dotnet new console -> Prepara todo o conteúdo para programar em c#
+### dotnet run -> rodar o programa no padrão dotnet
+### csc program.cs
