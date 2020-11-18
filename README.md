@@ -13,3 +13,9 @@ Para compilar no Visual Studio Code utiliza-se o comando Ctrl+shift+' para abrir
   rodar o programa no padrão dotnet
 ### csc program.cs
   compila o programa com o compilador csc
+###  dotnet new sln -n "Aula02"
+  cria uma solução com o nome de "Aula02"
+### dotnet sln Aula02.sln add Aula02.csproj
+  Adiciona dentro da solução o projeto
+### dotnet build
+  Constrói o projeto a partir da solução
