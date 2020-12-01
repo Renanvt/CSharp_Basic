@@ -7,7 +7,7 @@ namespace Aula03
         static void Main(string[] args)
         {
 
-            /*VARIÁVEIS*/
+            /*VARIÁVEIS */
             int num; //Declaração de variável. Por padrão  é 0
             int num2=0; //Tipo inteiro com sinal, com tamanho de 32 bits
             byte n1=10; //Inteiro de 8 bits. Armazena entre 0 e 255
