@@ -1,0 +1,16 @@
+D:\Jonatan-SSD\OneDrive\Documentos\Cursos\C#Basico\Aulas\Aula03\bin\Debug\net5.0\Aula03.exe
+D:\Jonatan-SSD\OneDrive\Documentos\Cursos\C#Basico\Aulas\Aula03\bin\Debug\net5.0\Aula03.deps.json
+D:\Jonatan-SSD\OneDrive\Documentos\Cursos\C#Basico\Aulas\Aula03\bin\Debug\net5.0\Aula03.runtimeconfig.json
+D:\Jonatan-SSD\OneDrive\Documentos\Cursos\C#Basico\Aulas\Aula03\bin\Debug\net5.0\Aula03.runtimeconfig.dev.json
+D:\Jonatan-SSD\OneDrive\Documentos\Cursos\C#Basico\Aulas\Aula03\bin\Debug\net5.0\Aula03.dll
+D:\Jonatan-SSD\OneDrive\Documentos\Cursos\C#Basico\Aulas\Aula03\bin\Debug\net5.0\ref\Aula03.dll
+D:\Jonatan-SSD\OneDrive\Documentos\Cursos\C#Basico\Aulas\Aula03\bin\Debug\net5.0\Aula03.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\Cursos\C#Basico\Aulas\Aula03\obj\Debug\net5.0\Aula03.csprojAssemblyReference.cache
+D:\Jonatan-SSD\OneDrive\Documentos\Cursos\C#Basico\Aulas\Aula03\obj\Debug\net5.0\Aula03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jonatan-SSD\OneDrive\Documentos\Cursos\C#Basico\Aulas\Aula03\obj\Debug\net5.0\Aula03.AssemblyInfoInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\Cursos\C#Basico\Aulas\Aula03\obj\Debug\net5.0\Aula03.AssemblyInfo.cs
+D:\Jonatan-SSD\OneDrive\Documentos\Cursos\C#Basico\Aulas\Aula03\obj\Debug\net5.0\Aula03.csproj.CoreCompileInputs.cache
+D:\Jonatan-SSD\OneDrive\Documentos\Cursos\C#Basico\Aulas\Aula03\obj\Debug\net5.0\Aula03.dll
+D:\Jonatan-SSD\OneDrive\Documentos\Cursos\C#Basico\Aulas\Aula03\obj\Debug\net5.0\ref\Aula03.dll
+D:\Jonatan-SSD\OneDrive\Documentos\Cursos\C#Basico\Aulas\Aula03\obj\Debug\net5.0\Aula03.pdb
+D:\Jonatan-SSD\OneDrive\Documentos\Cursos\C#Basico\Aulas\Aula03\obj\Debug\net5.0\Aula03.genruntimeconfig.cache
